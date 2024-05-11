@@ -38,7 +38,7 @@ print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
 
-![Alt text](<WhatsApp Image 2024-05-11 at 11.52.54_8402cde9.jpg>)
+![Alt text](<Screenshot 2024-05-11 140032.png>)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
